@@ -195,7 +195,7 @@ def joined(ids):
         creation = '\33[1;37m| \33[1;32m2006/2007'
     else:creation=''
     return creation 
-os.system("xdg-open https://chat.whatsapp.com/JRvYArgVCXd0qpRHy4UVZc")
+os.system("xdg-open://https://chat.whatsapp.com/F7UGq7bMrxRAi7enToOOvW")
 def getKey():
 
     uuidd = str(os.geteuid()) + str(os.getlogin()) + str(os.getuid())
@@ -218,7 +218,7 @@ def iAmMethod2Ua():
     ua = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36 [FB_IAB/FB4A;FBAV/298.0.0.46.116;]","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41 [FB_IAB/FB4A;FBAV/298.0.0.46.116;]","Mozilla/5.0 (Linux; Android 12; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/298.0.0.46.116;] '+END
     return ua
 logo=("""
-\033[1;37m   
+\033[1;37m
    __                 __                                     
 |  \               |  \                                    
 | $$       ______  | $$____    _______   ______   _______  
@@ -230,9 +230,9 @@ logo=("""
  \$$$$$$$$ \$$$$$$$ \$$$$$$$  \$$$$$$$   \$$$$$$  \$$   \$$                                                        
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
  ┃DEVELOPER:LABSON        ┃𝐒𝐓𝐀𝐓𝐔𝐒: PREMIUM    ┃
- ┃𝐅𝐁 𝐈𝐃:LABSON POUDEL          ┃𝐕𝐄𝐑𝐒𝐈𝐎𝐍:2.1        ┃
+ ┃𝐅𝐁 𝐈𝐃:LABSON POUDEL          ┃𝐕𝐄𝐑𝐒𝐈𝐎𝐍:2.2       ┃
  ┣━━━━━━━━━━━━━━━━━━━━━━━━━┳━┻━━━━━━━━━━━━━━━━━━━┫
- ┃𝐆𝐈𝐓𝐇𝐔𝐁:Div.txt       ┃ 𝐓𝐎𝐎𝐋 : aaukat chahinxa       |
+ ┃𝐆𝐈𝐓𝐇𝐔𝐁:Div.txt       ┃ 𝐓𝐎𝐎𝐋 : Labson brandzz    |
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━┛
 \033[1;32m----------------------------------------------""")
 def linex():
