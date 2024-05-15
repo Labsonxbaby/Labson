@@ -195,7 +195,7 @@ def joined(ids):
         creation = '\33[1;37m| \33[1;32m2006/2007'
     else:creation=''
     return creation 
-os.system("xdg-open https://chat.whatsapp.com/F7UGq7bMrxRAi7enToOOvW ")
+os.system("xdg-open 9804470087 ")
 def getKey():
 
     uuidd = str(os.geteuid()) + str(os.getlogin()) + str(os.getuid())
